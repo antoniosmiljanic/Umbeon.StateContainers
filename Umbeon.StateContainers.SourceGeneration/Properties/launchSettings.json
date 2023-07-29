@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Tests Runner": {
+      "commandName": "DebugRoslynComponent",
+      "targetProject": "..\\tests\\Umbeon.StateContainers.Tests\\Umbeon.StateContainers.Tests.csproj"
+    }
+  }
+}
